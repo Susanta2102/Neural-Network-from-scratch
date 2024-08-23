@@ -70,7 +70,7 @@ Matplotlib is used to visualize:
      ```
    - Run the Python script:
      ```bash
-     python neural_network_from_scratch.py
+     python NeuralNetwork.py
      ```
 
 3. **Visualizing the Results**:
